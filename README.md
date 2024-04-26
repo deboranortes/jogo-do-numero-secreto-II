@@ -5,7 +5,6 @@ O "Jogo do Número Secreto" é um jogo simples em que o usuário deve adivinhar 
 
 O destaque deste projeto é a funcionalidade de fala, em que o computador é capaz de falar o texto exibido na tela. Isso é feito através da importação de um script em JavaScript chamado ResponsiveVoice, que permite a utilização da função responsiveVoice.speak para fazer o computador falar o texto. O idioma e a velocidade da fala podem ser configurados de acordo com a preferência do usuário.
 
-![GIF do Jogo do Número Secreto](caminho_para_o_gif)
 
 ## Tecnologias Utilizadas
 - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
